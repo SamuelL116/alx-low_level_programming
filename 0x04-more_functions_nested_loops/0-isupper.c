@@ -1,9 +1,10 @@
 #include "main.h"
 
+
 /**
  * main - check the code.
  * @c: input value to check
- * Return: Always (0).
+ * Return: int.
  */
 int _isupper(int c)
 {
