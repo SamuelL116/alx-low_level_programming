@@ -1,1 +1,1 @@
-int _inupper(int c);
+int _isupper(int c);
