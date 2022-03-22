@@ -4,7 +4,7 @@
  * swap_int - swaps the value of two integers.
  *
  * @a: pointer to an int
- * #b: pointer to another int
+ * @b: pointer to another int
  * Return: Nothing
  */
 
