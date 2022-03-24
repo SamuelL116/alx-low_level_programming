@@ -7,6 +7,7 @@
  * @dest: pointer to destination string
  *
  * Return: dest string.
+ */
 char *_strncat(char *dest, char *src, int n)
 {
 int s, j;
