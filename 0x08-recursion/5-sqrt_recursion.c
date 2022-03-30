@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
- * _sqrt_recursion - function that returns the natural
- * square root of a number
- * @n: input number
- *
+ * sqrt2 - Makes possible to evaluate from 1 to n
+ * @a: same number as n
+ * @b: number that iterates from 1 to n
  * Return: int
  */
 
@@ -18,10 +17,9 @@ return (sqrt2(a, b + 1));
 }
 
 /**
- * getNumSqr - function that gets de num of sqroot
+ * _sqrt_recursion - returns the natural square root of n
+ * @n: Number Integer
  *
- * @num: input number
- * @i: Counter variable
  * Return: int
  */
 
