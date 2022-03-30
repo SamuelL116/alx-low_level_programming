@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * is_prime_number - returns 1 if the input integer is a prime number
- * otherwise return 0
- * @n: input number
+ * prime2 - Makes possible to evaluate from 1 to n
+ * @a: same number as n
+ * @b: number that iterates from 1 to n
  *
  * Return: int
  */
