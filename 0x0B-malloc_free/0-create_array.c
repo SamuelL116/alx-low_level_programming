@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * create_array - creates an array of chars 
+ * create_array - creates an array of chars
  * and initialises it with a specific char
  *
  * @size: int input
@@ -18,7 +18,7 @@ char *ar;
 unsigned int j = 0;
 
 if (size != 0)
-ar = malloc(size *sizeof(char));
+ar = malloc(size * sizeof(char));
 else
 return (NULL);
 if (ar == NULL)
