@@ -13,12 +13,12 @@ size_t node_size;
 
 node_size = 0;
 if (h==0)
-return (size);
+return (node_size);
 
 while (h)
 {
 node_size++;
 h = h->next;
 }
-return (size);
+return (node_size);
 }
